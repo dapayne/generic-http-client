@@ -6,7 +6,7 @@ import java.util.Map;
 public class GenericHttpClient {
 
 	public static void main(String[] args) throws Exception {
-		// TODO Auto-generated method stub
+
 
 		Map<String,String> inputMap = new HashMap<String,String>();
 		
