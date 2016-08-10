@@ -34,7 +34,7 @@
   <distributionManagement>
   	<snapshotRepository>
       <id>mspairport-utils</id>
-      <url>http://192.168.1.194:9091/nexus/content/repositories/mspairport-utils/</url>
+      <url>http://localhost:9091/nexus/content/repositories/mspairport-utils/</url>
 	</snapshotRepository>
   </distributionManagement>     
   
