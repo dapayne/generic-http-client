@@ -8,6 +8,7 @@ public class GenericHttpClient {
 	public static void main(String[] args) throws Exception {
 
 		// Adding another comment to test out Continuous Integration
+		// Adding another comment
 		Map<String,String> inputMap = new HashMap<String,String>();
 		
 		for (int i=0; i < args.length; i++) {
